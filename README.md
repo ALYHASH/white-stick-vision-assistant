@@ -60,5 +60,3 @@ Coming Soon — Example usage and screenshots of the system in action.
 This project is licensed under the MIT License.
 
 ---
-
-Built with ❤️ by [ALY HASSAN](https://github.com/ALYHASH)
