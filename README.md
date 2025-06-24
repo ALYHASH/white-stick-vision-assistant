@@ -33,7 +33,7 @@ white-stick-vision-assistant/
 └── .gitignore # Ignore large models and cache files
 
 ## ⚙️ Installation & Setup
-1️⃣ **Clone the repository**
+1️⃣ Clone the repository
 ```bash
 git clone https://github.com/ALYHASH/white-stick-vision-assistant.git
 cd white-stick-vision-assistant
