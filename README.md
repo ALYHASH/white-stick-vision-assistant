@@ -58,5 +58,3 @@ Coming Soon — Example usage and screenshots of the system in action.
 
 ## 📜 License
 This project is licensed under the MIT License.
-
----
